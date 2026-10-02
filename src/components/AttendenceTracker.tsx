@@ -1,5 +1,5 @@
 import {useRef, useEffect, useState} from "react"
-import { Card, CardHeader, CardDescription, CardTitle,CardContent,CardFooter } from "@/components/ui/card"
+import { Card, CardHeader, CardDescription, CardTitle,CardContent } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import {Input }from "@/components/ui/input"
 

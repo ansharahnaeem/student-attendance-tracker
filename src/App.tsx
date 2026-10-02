@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button"
+
 import AttendenceTracker from "./components/AttendenceTracker"
 
 export function App() {
